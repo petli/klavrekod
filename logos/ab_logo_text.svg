@@ -11,9 +11,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="389.16321"
-   height="107.23202"
-   viewBox="0 0 389.16321 107.23202"
+   width="388.78488"
+   height="109.23202"
+   viewBox="0 0 388.78488 109.23202"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -55,9 +55,9 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#AB_blue"
-       id="linearGradient5014"
+       id="linearGradient5204"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1.9571068,0)"
+       gradientTransform="translate(-1.5787659,-2)"
        x1="401.93222"
        y1="533.24054"
        x2="654.65332"
@@ -65,9 +65,9 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#AB_blue"
-       id="linearGradient5016"
+       id="linearGradient5206"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1.9571068,0)"
+       gradientTransform="translate(-1.5787659,-2)"
        x1="401.93222"
        y1="533.24054"
        x2="654.65332"
@@ -75,7 +75,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#AB_blue"
-       id="linearGradient5018"
+       id="linearGradient5208"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0,0.01287842)"
        x1="421.49887"
@@ -85,7 +85,7 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#AB_red"
-       id="linearGradient5020"
+       id="linearGradient5210"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(2,0)"
        x1="752.18835"
@@ -100,15 +100,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="89.45183"
-     inkscape:cy="71.653187"
+     inkscape:zoom="2.803451"
+     inkscape:cx="194.20328"
+     inkscape:cy="73.201337"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1219"
+     inkscape:window-width="1220"
      inkscape:window-height="756"
-     inkscape:window-x="61"
+     inkscape:window-x="60"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
@@ -134,19 +134,19 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-389.97512,-505.01555)">
+     transform="translate(-390.35345,-503.01555)">
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:100;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Thin Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5014);fill-opacity:1;stroke:url(#linearGradient5016);stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="400.37512"
-       y="550.81555"
+       style="font-style:italic;font-variant:normal;font-weight:100;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Thin Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5204);fill-opacity:1;stroke:url(#linearGradient5206);stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="400.75345"
+       y="548.81555"
        id="text3336"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3338"
-         x="400.37512"
-         y="550.81555"
-         style="font-style:italic;font-variant:normal;font-weight:100;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Thin Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5014);fill-opacity:1;stroke:url(#linearGradient5016);stroke-width:0.2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="400.75345"
+         y="548.81555"
+         style="font-style:italic;font-variant:normal;font-weight:100;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Thin Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5204);fill-opacity:1;stroke:url(#linearGradient5206);stroke-width:0.2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          dx="0 1.5 0 0 0.5 0 0 0 0.5">Klavreströms</tspan></text>
     <text
        xml:space="preserve"
@@ -161,7 +161,7 @@
          y="626.58234" /></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5018);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5208);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="421.69888"
        y="593.94757"
        id="text3344"
@@ -170,10 +170,10 @@
          id="tspan3346"
          x="421.69888"
          y="593.94757"
-         style="fill:url(#linearGradient5018);fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">kodmanufaktur</tspan></text>
+         style="fill:url(#linearGradient5208);fill-opacity:1;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none">kodmanufaktur</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5020);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Bold Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient5210);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="756.53833"
        y="593.94757"
        id="text3348-3"
@@ -182,7 +182,7 @@
          id="tspan3350-6"
          x="756.53833"
          y="593.94757"
-         style="fill:url(#linearGradient5020);fill-opacity:1">;</tspan></text>
+         style="fill:url(#linearGradient5210);fill-opacity:1">;</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Helvetica Neue';-inkscape-font-specification:'Helvetica Neue, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -193,6 +193,6 @@
          sodipodi:role="line"
          id="tspan4980"
          x="944.88971"
-         y="489.91809"></tspan></text>
+         y="489.91809" /></text>
   </g>
 </svg>
