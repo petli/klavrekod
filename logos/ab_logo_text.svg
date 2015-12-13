@@ -24,7 +24,7 @@
        id="AB_red"
        osb:paint="solid">
       <stop
-         style="stop-color:#e4021d;stop-opacity:1;"
+         style="stop-color:#ee1d02;stop-opacity:1;"
          offset="0"
          id="stop4211" />
     </linearGradient>
@@ -48,7 +48,7 @@
        id="AB_blue"
        osb:paint="solid">
       <stop
-         style="stop-color:#1955af;stop-opacity:1;"
+         style="stop-color:#0a5a9e;stop-opacity:1;"
          offset="0"
          id="stop4173" />
     </linearGradient>
@@ -100,16 +100,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.803451"
-     inkscape:cx="194.20328"
-     inkscape:cy="73.201337"
+     inkscape:zoom="2.1692863"
+     inkscape:cx="194.39244"
+     inkscape:cy="54.616006"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1220"
-     inkscape:window-height="756"
-     inkscape:window-x="60"
-     inkscape:window-y="0"
+     inkscape:window-width="1228"
+     inkscape:window-height="755"
+     inkscape:window-x="52"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      units="px"
      fit-margin-top="10"
@@ -126,7 +126,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
